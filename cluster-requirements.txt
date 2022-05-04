@@ -1,0 +1,8 @@
+gensim
+spacy
+pyLDAvis
+matplotlib
+little_mallet_wrapper
+nltk
+numpy
+seaborn
